@@ -1,0 +1,9 @@
+Curso Git
+---------
+Equipo (nombre equipo)
+Miembros:
+# Nombre:
+# Apellidos:
+# Fecha nacimiento:
+# email:
+(rellenar para cada miembro del equipo)
