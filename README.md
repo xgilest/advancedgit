@@ -1,4 +1,4 @@
 # advancedgit
 Curso avanzado git
 
-## nuevo texto
+Material para las sesiones del curso avanzado de git
